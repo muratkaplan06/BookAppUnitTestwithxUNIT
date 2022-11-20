@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookApp", "BookApp\BookApp.csproj", "{9E6716D6-2742-455E-AE43-097A3343C80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAPI.TEST", "LibraryAPI.TEST\LibraryAPI.TEST.csproj", "{59A1397A-0181-4656-925B-F4A190E20B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E6716D6-2742-455E-AE43-097A3343C80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6716D6-2742-455E-AE43-097A3343C80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6716D6-2742-455E-AE43-097A3343C80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6716D6-2742-455E-AE43-097A3343C80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A1397A-0181-4656-925B-F4A190E20B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A1397A-0181-4656-925B-F4A190E20B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A1397A-0181-4656-925B-F4A190E20B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A1397A-0181-4656-925B-F4A190E20B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {374D600D-B7EB-42D7-9C94-E4E3593824C9}
+	EndGlobalSection
+EndGlobal
